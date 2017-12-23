@@ -1,0 +1,60 @@
+[08-Apr-2017 08:37:35 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 08:38:39 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 08:40:37 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 08:42:03 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 09:19:09 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 09:21:40 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Access denied' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(22): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 09:22:02 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Unauthorized' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(21): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 09:25:09 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Unauthorized' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(21): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 09:25:14 UTC] PHP Fatal error:  Uncaught exception 'Payeezy_Error' with message 'Unauthorized' in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php:140
+Stack trace:
+#0 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/TransactionType.php(37): Payeezy_Transaction->doPrimaryTransaction(Array)
+#1 /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php(21): Payeezy_TransactionType->purchase(Array)
+#2 {main}
+  thrown in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/vendor/payeezy/payeezy-php/src/Payeezy/Transaction.php on line 140
+[08-Apr-2017 11:47:03 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
+[08-Apr-2017 11:47:30 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
+[08-Apr-2017 11:47:36 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
+[08-Apr-2017 11:48:00 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
+[08-Apr-2017 11:48:28 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
+[08-Apr-2017 11:49:17 UTC] PHP Fatal error:  Call to a member function purchase() on a non-object in /home/adilshah30/public_html/dev.adilshah.com/payeezytest/payment_form.php on line 11
